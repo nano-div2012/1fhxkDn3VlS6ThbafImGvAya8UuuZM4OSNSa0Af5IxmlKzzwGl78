@@ -1,6 +1,13 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "Deadline: Fortline",
+  "packageName": "com.web2apk.deadlinefortlinecy4p",
+  "orientation": "landscape",
+  "permissions": [
+    "notification",
+    "camera",
+    "video",
+    "location",
+    "wifi_state",
+    "wake_lock"
+  ]
 }
